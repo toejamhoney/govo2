@@ -1,0 +1,11 @@
+[Guests]
+Guest=xp00,vbox,xpsp3,10.0.0.100,4828,10.0.0.1
+Guest=xp01,vbox,xpsp3,10.1.1.100,4828,10.1.1.1
+Guest=xp02,vbox,xpsp3,10.2.2.100,4828,10.2.2.1
+Guest=xp03,vbox,xpsp3,10.3.3.100,4828,10.3.3.1
+Guest=xp04,vbox,xpsp3,10.4.4.100,4828,10.4.4.1
+Guest=xp05,vbox,xpsp3,10.5.5.100,4828,10.5.5.1
+Guest=xp06,vbox,xpsp3,10.6.6.100,4828,10.6.6.1
+Guest=xp07,vbox,xpsp3,10.7.7.100,4828,10.7.7.1
+Guest=xp08,vbox,xpsp3,10.8.8.100,4828,10.8.8.1
+Guest=xp09,vbox,xpsp3,10.9.9.100,4828,10.9.9.1
